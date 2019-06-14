@@ -1,0 +1,11 @@
+/home/anas/Projects/redisExperiment/redisLock/bin/Release/netcoreapp2.1/redisLock.deps.json
+/home/anas/Projects/redisExperiment/redisLock/bin/Release/netcoreapp2.1/redisLock.runtimeconfig.json
+/home/anas/Projects/redisExperiment/redisLock/bin/Release/netcoreapp2.1/redisLock.runtimeconfig.dev.json
+/home/anas/Projects/redisExperiment/redisLock/bin/Release/netcoreapp2.1/redisLock.dll
+/home/anas/Projects/redisExperiment/redisLock/bin/Release/netcoreapp2.1/redisLock.pdb
+/home/anas/Projects/redisExperiment/redisLock/obj/Release/netcoreapp2.1/redisLock.csprojAssemblyReference.cache
+/home/anas/Projects/redisExperiment/redisLock/obj/Release/netcoreapp2.1/redisLock.csproj.CoreCompileInputs.cache
+/home/anas/Projects/redisExperiment/redisLock/obj/Release/netcoreapp2.1/redisLock.AssemblyInfoInputs.cache
+/home/anas/Projects/redisExperiment/redisLock/obj/Release/netcoreapp2.1/redisLock.AssemblyInfo.cs
+/home/anas/Projects/redisExperiment/redisLock/obj/Release/netcoreapp2.1/redisLock.dll
+/home/anas/Projects/redisExperiment/redisLock/obj/Release/netcoreapp2.1/redisLock.pdb
